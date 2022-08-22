@@ -1,4 +1,4 @@
-<body><h1 style="font-size:150%">Alura+ - Projeto compartilhado do curso realizado pela Alura+ 👋</h1></body>
+<body><h1 style="font-size:150%">AluraPlus - Projeto compartilhado do curso realizado pela Alura+ 👋</h1></body>
 
 
 - 👀 Aqui, tivemos a oportunidade de aprender tecnologias como HTML5 e CSS3. 
